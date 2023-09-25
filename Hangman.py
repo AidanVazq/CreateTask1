@@ -1,4 +1,8 @@
-
+#In this game you are suppsoed to guess the SecretWord. It gets a bunch of secretwords from a list 
+# and randomly picks a word. It then has a variable to see how many lives you have. It then asks for
+# an input from the user. If the guess is in secret then good job, else then -1 lives and print 
+# inncorrect. THEN if the letter is in the secret word print the the letter and else then print "_"
+# and add +1 to wrong letter counter.
 import random
 #^^^^^^^^^ Im not sure what that does I just looked at what W3 schools put and it worked I guess.
 
